@@ -1,9 +1,9 @@
-name := "blank project template"
+name := "sbt-template"
 
 version := "1.0"
 
-scalaVersion := "2.9.1"
+scalaVersion := "2.10.4"
 
-libraryDependencies += "org.scalatest" % "scalatest_2.9.0" % "1.6.1"
+libraryDependencies += "org.scalatest" % "scalatest_2.10" % "2.2.5"
 
 libraryDependencies += "junit" % "junit" % "4.9"
